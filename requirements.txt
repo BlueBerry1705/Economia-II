@@ -1,0 +1,6 @@
+discord
+tabulate
+Pillow
+discord_easy_commands
+faker
+unidecode
